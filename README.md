@@ -1,4 +1,5 @@
-# Smart_Tomato_Cultivation
+# <p align="center">IoT enhanced tomato plant cultivation with machine learning</p>
+
 
 ## ABSTRACT
 
