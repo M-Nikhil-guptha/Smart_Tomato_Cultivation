@@ -14,4 +14,7 @@ In conventional tomato cultivation, inefficient irrigation, imprecise nutrient m
 Our project aims to address these challenges by developing an integrated system that leverages IoT and Machine Learning to optimize irrigation, enhance nutrient management, enable real-time pest detection and control, promote sustainable farming practices, and provide data-driven decision support for tomato cultivation.
 
 
+## Proof of Concept
+
+
 
