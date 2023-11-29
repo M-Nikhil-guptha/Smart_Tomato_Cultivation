@@ -18,3 +18,7 @@ Our project aims to address these challenges by developing an integrated system 
 
 
 
+https://github.com/M-Nikhil-guptha/Smart_Tomato_Cultivation/assets/101795825/b6f4256a-f82f-4407-bb01-cb20001cc767
+
+
+
