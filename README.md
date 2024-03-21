@@ -1,3 +1,4 @@
+
 # <p align="center">IoT enhanced tomato plant cultivation with machine learning</p>
 
 
@@ -14,18 +15,33 @@ Traditional tomato cultivation faces challenges such as inefficient irrigation, 
 
 Our project aims to address these challenges by developing an integrated system that leverages IoT and Machine Learning to optimize irrigation, enhance nutrient management, enable real-time pest detection and control, promote sustainable farming practices, and provide data-driven decision support for tomato cultivation.
 
+## PROOF OF CONCEPT
+
+
+
+https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c8bb9ce3-9d9e-440b-a951-0c2f8aa9e1d3
+
+
 ### SYSTEM ARCHITECTURE
 <img src="https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/08835dfa-4371-477a-87a4-5c78137d092b" alt="System Architecture" width="700" height="600">
+
+
 
 
 # We Divivded the Projects into 2 Phases 
 
 
 ## Phase-01: Focus on Soil Moisture
-- [PHASE-01(https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-01)
+- [PHASE-01](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-01)
 
 ## Phase-02: Soil Nutrients and ML Model
 - [PHASE-02](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-02)
+
+
+# PHASE-01
+
+Phase-01 of the project focuses on soil moisture management using IoT technology. It includes the implementation of a soil moisture sensor (AB054) interfaced with a NodeMCU board. The sensor continuously monitors soil moisture levels, and based on predefined thresholds, triggers a water pump for irrigation when moisture is low. This phase involves hardware components such as the soil moisture sensor, NodeMCU board, water pump, relay module, and a 9-volt HW battery for power supply. The software aspect includes programming the NodeMCU using the Arduino IDE or Lua language to control the irrigation system based on soil moisture readings. The goal of Phase-01 is to establish a reliable and automated soil moisture management system for efficient tomato plant cultivation.
+
 
 
 
