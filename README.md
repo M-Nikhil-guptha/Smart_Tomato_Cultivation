@@ -30,7 +30,7 @@ https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c8bb9ce3-
 
 
 
-# We Divivded the Projects into 2 Phases 
+# We Divided the Projects into 2 Phases 
 
 
 ## Phase-01: Focus on Soil Moisture
@@ -40,7 +40,7 @@ https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c8bb9ce3-
 - [PHASE-02](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-02)
 
 
-# PHASE-01
+# [PHASE-01](./Phase-01)
 
 Phase-01 of the project focuses on soil moisture management using IoT technology. It includes the implementation of a soil moisture sensor (AB054) interfaced with a NodeMCU board. The sensor continuously monitors soil moisture levels, and based on predefined thresholds, triggers a water pump for irrigation when moisture is low. This phase involves hardware components such as the soil moisture sensor, NodeMCU board, water pump, relay module, and a 9-volt HW battery for power supply. The software aspect includes programming the NodeMCU using the Arduino IDE or Lua language to control the irrigation system based on soil moisture readings. The goal of Phase-01 is to establish a reliable and automated soil moisture management system for efficient tomato plant cultivation.
 
@@ -53,7 +53,7 @@ Fig: The testing of soil moisture sensor with a water source.
 Fig: The output displayed on the serial Monitor.
 
 
-# PHASE-02
+# [PHASE-02](./Phase-02)
 
 ## Phase-02 is further divided into 2 parts
  1. Soil Nutrients Monitoring
