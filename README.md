@@ -34,10 +34,10 @@ https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c8bb9ce3-
 
 
 ## Phase-01: Focus on Soil Moisture
-- [PHASE-01](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-01)
+- [PHASE-01](./Phase-01)
 
 ## Phase-02: Soil Nutrients and ML Model
-- [PHASE-02](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-02)
+- [PHASE-02](./Phase-02)
 
 
 # [PHASE-01](./Phase-01)
