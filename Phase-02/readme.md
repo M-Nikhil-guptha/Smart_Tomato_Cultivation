@@ -4,8 +4,7 @@
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Proposed Solution](#proposed-solution)
-- [System Architecture Overview](#system-architecture-overview)
-- [Tools Used/Implemented](#tools-usedimplemented)
+
 
 ## INTRODUCTION
 Phase-02 of the project focuses on enhancing the capabilities of the system by incorporating nutrient monitoring and pest detection components.
