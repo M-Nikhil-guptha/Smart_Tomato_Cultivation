@@ -21,12 +21,13 @@ Our project aims to address these challenges by developing an integrated system 
 
 https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c8bb9ce3-9d9e-440b-a951-0c2f8aa9e1d3
 
+![carbon](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/3dfc275a-cc10-41cb-ba0f-e32777f7e0c4)
 
 ### SYSTEM ARCHITECTURE
 <img src="https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/08835dfa-4371-477a-87a4-5c78137d092b" alt="System Architecture" width="700" height="600">
 
 
-![carbon](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/7943662b-9118-492b-901c-db87535a111e)
+
 
 
 
