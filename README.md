@@ -65,12 +65,12 @@ Fig: The output displayed on the serial Monitor.
 
  ### 1. Soil Nutrients Monitoring
 
-Phase-02 of our project focuses on the crucial task of soil nutrient monitoring to ensure the optimal growth and health of tomato plants. We aim to integrate NPK (Nitrogen, Phosphorus, Potassium) sensors into our system and utilize the Blynk app for real-time monitoring of nutrient levels. This phase emphasizes precise data collection and analysis to enable efficient nutrient management and support healthy plant development.
+Phase-02 of our project focuses on the crucial task of soil nutrient monitoring to ensure tomato plants' optimal growth and health. We aim to integrate NPK (Nitrogen, Phosphorus, Potassium) sensors into our system and utilize the Blynk app for real-time monitoring of nutrient levels. This phase emphasizes precise data collection and analysis to enable efficient nutrient management and support healthy plant development.
 
 
 ### 2. Pest-Detection 
 
-The pest detection part of our system utilizes a camera module to capture images of tomato plants. These images are processed using a machine learning model, in which diseases are caused by pathogens and pests. When a pest is detected, the system sends notifications to the user, enabling timely intervention and pest management.
+The pest detection part of our system utilizes a camera module to capture images of tomato plants. These images are processed using a machine-learning InceptionV3-based CNN model, in which pathogens and pests cause diseases. When a pest is detected, the system sends notifications to the user, enabling timely intervention and pest management.
 
 
 
