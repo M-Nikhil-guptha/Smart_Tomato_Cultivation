@@ -19,13 +19,16 @@ Our project aims to address these challenges by developing an integrated system 
 
 
 
-https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c8bb9ce3-9d9e-440b-a951-0c2f8aa9e1d3
+https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/d8b12562-4ffa-4a4f-a8ed-eefa103689c3
 
-![carbon](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/3dfc275a-cc10-41cb-ba0f-e32777f7e0c4)
+
+
+![Carbon](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c555e8d5-d616-4b7b-8e79-f95b4217432d)
+
 
 ### SYSTEM ARCHITECTURE
-<img src="https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/08835dfa-4371-477a-87a4-5c78137d092b" alt="System Architecture" width="700" height="600">
 
+![System-Architecture](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/f7aae4b4-1867-4c5a-96c2-15ee0f1e32ec)
 
 
 
@@ -62,7 +65,19 @@ Fig: The output displayed on the serial Monitor.
 
  ### 1. Soil Nutrients Monitoring
 
-Phase-02 of our project focuses on the crucial task of soil nutrient monitoring to ensure the optimal growth and health of tomato plants. We aim to integrate NPK (Nitrogen, Phosphorus, Potassium) sensors into our system and utilize the Blynk app for real-time monitoring of nutrient levels. This phase emphasizes precise data collection and analysis to enable efficient nutrient management and support healthy plant development.
+Phase-02 of our project focuses on the crucial task of soil nutrient monitoring to ensure tomato plants' optimal growth and health. We aim to integrate NPK (Nitrogen, Phosphorus, Potassium) sensors into our system and utilize the Blynk app for real-time monitoring of nutrient levels. This phase emphasizes precise data collection and analysis to enable efficient nutrient management and support healthy plant development.
+
+
+### 2. Pest-Detection 
+
+The pest detection part of our system utilizes a camera module to capture images of tomato plants. These images are processed using a machine-learning InceptionV3-based CNN model, in which pathogens and pests cause diseases. When a pest is detected, the system sends notifications to the user, enabling timely intervention and pest management.
+
+
+
+
+
+
+
 
 
 
