@@ -105,7 +105,7 @@ byte phosphorous(){
     values[i] = mod.read();
    // Serial.print(values[i],HEX);
     }
-    //Serial.println();
+    Serial.println();
   }
   return values[4];
 }
@@ -126,3 +126,27 @@ byte potassium(){
   }
   return values[4];
 }
+
+/*void soil_check()
+{
+      
+    if(digitalRead(level) == 1)
+    {
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("LAND DRY");
+      lcd.setCursor(0,1);
+      lcd.print("");
+      Serial.println("LAND DRY");
+     }
+       else if(digitalRead(level) == 0)
+    {
+       lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("LAND WET");
+      lcd.setCursor(0,1);
+      lcd.print("");
+      //Serial.println("LAND WET");
+     }
+    delay(2000);
+}*/
