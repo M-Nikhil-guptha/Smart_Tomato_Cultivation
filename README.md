@@ -162,7 +162,7 @@ Fig:  The Image is processed and the result is sent to the user(s)
 
 <img src="https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/1569fe52-04be-4790-9482-cb653bef6dd6" alt="Pest-Detection Twilio output" width="400">
 
-Fig: Outcome of the predicted disease is sent to the user via SMS.
+Fig: The outcome of the predicted disease is sent to the user via SMS.
 
 Feel free to reach out for any further clarifications or enhancements!
 
