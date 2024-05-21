@@ -1,11 +1,7 @@
 # PHASE-01
 
-## TABLE OF CONTENTS
 
 
-- [Reserach Papers](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-01/Research%20Papers) 
-- [Weekly Reports](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-01/Weekly%20Report)
-- [Code](https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/tree/master/Phase-01/soil_with_water_pump_NodeMCU)
 
 ## INTRODUCTION
 Phase 01 of our project focuses on implementing a robust Soil Moisture Monitoring and Irrigation System using IoT technology. In modern agriculture, efficient water management is crucial for optimizing crop growth and resource utilization. However, traditional irrigation methods often lack precision, leading to water wastage and suboptimal plant hydration. To address this challenge, our project integrates advanced IoT components to create a smart irrigation system that adapts to the specific moisture needs of tomato plants.
