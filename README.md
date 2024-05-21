@@ -1,5 +1,5 @@
 
-# <p align="center">IoT enhanced tomato plant cultivation with machine learning</p>
+# <p align="center">IoT Enhanced Tomato Plant Cultivation With Machine Learning</p>
 
 
 ## ABSTRACT
@@ -156,6 +156,13 @@ The pest detection system in our project is designed to identify common pests an
 
 The pest detection system provides a robust mechanism for early and accurate identification of pests and diseases, allowing for timely intervention, minimizing damage, and ensuring the healthy growth of tomato plants. By integrating these functionalities, our smart model aims to enhance the efficiency and effectiveness of tomato cultivation, leveraging IoT and machine learning technologies.
 
+<img src="https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/c9857089-1d54-448d-8c4a-64fcdea87049" alt="Image" width="600">
+
+Fig:  The Image is processed and the result is sent to the user(s)
+
+<img src="https://github.com/Deepak-B-G/Smart_Tomato_Cultivation/assets/97933847/1569fe52-04be-4790-9482-cb653bef6dd6" alt="Pest-Detection Twilio output" width="400">
+
+Fig: Outcome of the predicted disease is sent to the user via SMS.
 
 Feel free to reach out for any further clarifications or enhancements!
 
